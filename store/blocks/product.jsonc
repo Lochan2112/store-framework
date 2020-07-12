@@ -1,4 +1,4 @@
-{  
+{
   "store.product": {
     "children": [
       "flex-layout.row#main"
@@ -24,15 +24,15 @@
       "product-price",
       "buy-button"
     ],
-    "props":{
+    "props": {
       "verticalAlign": "middle",
-      "preventVerticalStretch":"true"
+      "preventVerticalStretch": true
     }
   },
-  "product-price":{
-    "props":{
-      "showSavings":true,
-      "showListPrice":true
+  "product-price": {
+    "props": {
+      "showSavings": true,
+      "showListPrice": true
     }
   }
-}  
+}
